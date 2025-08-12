@@ -1,0 +1,9 @@
+# Ignorar arquivos de objeto
+*.o
+
+# Ignorar executáveis comuns
+*.exe
+*.out
+
+# Ignorar o executável específico do seu projeto
+salario
